@@ -1,15 +1,15 @@
 {
-  "name": "rafaelstz/traducao_magento2_pt_br",
+  "name": "belchiorneto/traducao_magento2_pt_br",
   "description": "Tradução para Português do Brasil oficial do Magento 2",
   "version": "1.0.0",
-  "homepage": "https://github.com/rafaelstz/traducao_magento2_pt_br",
+  "homepage": "https://github.com/belchiorneto/traducao_magento2_pt_br",
   "license": [
     "MIT"
   ],
   "authors": [
     {
       "name": "Rafael Corrêa Gomes",
-      "homepage": "https://github.com/rafaelstz"
+      "homepage": "https://github.com/belchiorneto"
     },
     {
       "name": "Magento official translations project for Magento 2",
