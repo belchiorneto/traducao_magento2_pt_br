@@ -42,6 +42,7 @@ Ajude a melhorar a tradução oficial do Magento 2 para Português Brasil usando
 
 # Autores
 Essa tradução foi criada oficialmente para o Magento 2 usando o [Crowdin](https://crowdin.com/project/magento-2).
-Esse repositório do Github foi criado por mim para facilitar a instalação.
+O repositório original do Github foi criado por [Rafael Corrêa Gomes](https://github.com/rafaelstz) para facilitar a instalação, fiz um fork para fins de aprendizado.
+[Belchior Dameao Neto](https://github.com/belchiorneto)
 
-[Rafael Corrêa Gomes](https://github.com/rafaelstz)
+

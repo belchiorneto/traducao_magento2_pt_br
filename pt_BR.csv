@@ -11556,7 +11556,7 @@ Reports,Relatórios,module,Magento_Search
 Delete,Excluir,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Deseja realmente excluir este grupo de sinônimos (id: %1)?",module,Magento_Search
 View/Edit,Ver/Editar,module,Magento_Search
-"Search entire store here...","Pesquisa em toda loja...",module,Magento_Search
+"Search entire store here...","Pesquisa em toda loja..",module,Magento_Search
 "There are no search terms available.","Não há nenhum termo de pesquisa disponível.",module,Magento_Search
 "Search Engine","Motor de busca",module,Magento_Search
 CSV,CSV,module,Magento_Search
