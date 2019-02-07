@@ -7644,7 +7644,7 @@ test,test,module,Magento_NegotiableQuote
 "Message 2","Message 2",module,Magento_NegotiableQuote
 View,View,module,Magento_NegotiableQuote
 "Associated Products","Associated Products",module,Magento_NegotiableQuote
-"Choose an Option...","Choose an Option...",module,Magento_NegotiableQuote
+"Choose an Option...","Escolha uma opção...",module,Magento_NegotiableQuote
 Availability:,Availability:,module,Magento_NegotiableQuote
 "Out of stock","Out of stock",module,Magento_NegotiableQuote
 Amount,Amount,module,Magento_NegotiableQuote
@@ -9473,7 +9473,7 @@ undefined,"Não definido",module,Magento_Reports
 "We can't specify a requisition list.","We can't specify a requisition list.",module,Magento_RequisitionList
 "You must choose options for your item.","You must choose options for your item.",module,Magento_RequisitionList
 "We can't specify a product.","We can't specify a product.",module,Magento_RequisitionList
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart.",module,Magento_RequisitionList
+"You added %1 item(s) to your shopping cart.","Você adicionou %1 item(s) ao seu carrinho de compras.",module,Magento_RequisitionList
 "Something went wrong.","Something went wrong.",module,Magento_RequisitionList
 "We can't configure the product right now.","We can't configure the product right now.",module,Magento_RequisitionList
 "%1 item(s) were copied to %2","%1 item(s) were copied to %2",module,Magento_RequisitionList
@@ -11556,7 +11556,7 @@ Reports,Relatórios,module,Magento_Search
 Delete,Excluir,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Deseja realmente excluir este grupo de sinônimos (id: %1)?",module,Magento_Search
 View/Edit,Ver/Editar,module,Magento_Search
-"Search entire store here...","Pesquisa em toda loja..",module,Magento_Search
+"Search entire store here...","Pesquisa em toda loja...",module,Magento_Search
 "There are no search terms available.","Não há nenhum termo de pesquisa disponível.",module,Magento_Search
 "Search Engine","Motor de busca",module,Magento_Search
 CSV,CSV,module,Magento_Search
@@ -14292,3 +14292,4 @@ Footer,Rodapé,theme,frontend/Magento/luma
 "Update to your %store_name shipment","Atualização da sua encomenda de %store_name",theme,frontend/Magento/luma
 "Address Book","Catálogo de Endereços",theme,frontend/Magento/luma
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
+"This is a demo store. No orders will be fulfilled.","Esta é uma loja demostrativa, nenhuma compra será processada.",theme,frontend/Magento/luma
